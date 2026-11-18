@@ -1,14 +1,5 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/tourly)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/tourly?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/tourly?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/FYFmQEpZywc?style=social)](https://youtu.be/FYFmQEpZywc)
-
-  <br />
-  <br />
-  
   <img src="./readme-images/project-logo.png" />
 
   <h2 align="center">Tourly - Travel website</h2>
@@ -38,18 +29,18 @@ To run **Tourly** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/tourly.git
+sudo git clone https://github.com/aethraholdings/tourly.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/tourly.git
+git clone https://github.com/aethraholdings/tourly.git
 ```
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at 
 
 ### License
 
